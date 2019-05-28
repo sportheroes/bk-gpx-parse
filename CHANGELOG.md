@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.10.6"></a>
+## [0.10.6](https://github.com/elliotstokes/gpx-parse/compare/v0.10.5...v0.10.6) (2019-05-28)
+
+
+### 🔄 Notable changes
+
+* **Gpx-parse**: Handle gpx version in xmlns header ([ff40a1a](https://github.com/elliotstokes/gpx-parse/commit/ff40a1a)))
+
+
+
 <a name="0.10.5"></a>
 ## [0.10.5](https://github.com/elliotstokes/gpx-parse/compare/v0.10.3...v0.10.5) (2019-05-24)
 
