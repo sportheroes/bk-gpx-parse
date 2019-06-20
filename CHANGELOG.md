@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.10.7"></a>
+## [0.10.7](https://github.com/elliotstokes/gpx-parse/compare/v0.10.6...v0.10.7) (2019-06-20)
+
+
+### ✴️ Bug Fixes
+
+* **Gpx-parse**: Skip track point if undefined ([1620b5b](https://github.com/elliotstokes/gpx-parse/commit/1620b5b)))
+
+
+
 <a name="0.10.6"></a>
 ## [0.10.6](https://github.com/elliotstokes/gpx-parse/compare/v0.10.5...v0.10.6) (2019-05-28)
 

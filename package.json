@@ -2,7 +2,7 @@
   "name": "@sportheroes/bk-gpx-parse",
   "author": "Elliot Stokes",
   "description": "a GPX parser for Node and client-side JavaScript.",
-  "version": "0.10.6",
+  "version": "0.10.7",
   "license": "MIT",
   "keywords": [
     "gpx",
